@@ -1,0 +1,4 @@
+ng g c comp_name
+create random component
+declare random number
+write property
