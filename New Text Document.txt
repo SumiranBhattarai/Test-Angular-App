@@ -2,3 +2,13 @@ ng g c comp_name
 create random component
 declare random number
 write property
+
+
+
+node js install
+npm -i g @angularcli
+ng new section-b
+would you like angular routing Y
+select default css
+
+

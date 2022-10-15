@@ -14,7 +14,7 @@ export class RandomComponent implements OnInit {
   ngOnInit(): void {
 
   }
-  generateRandom() {
-    this.randomnumber = Math.random();
+  generateRandom = () => {
+    this.randomnumber = Math.ceil(Math.random() * 69);
   }
 }
